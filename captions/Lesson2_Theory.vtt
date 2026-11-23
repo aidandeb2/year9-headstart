@@ -1,0 +1,286 @@
+WEBVTT
+
+1
+00:00:00.300 --> 00:00:02.261
+Welcome to Headstart algebra.
+
+2
+00:00:02.281 --> 00:00:03.422
+This is Lesson 2:
+
+3
+00:00:03.442 --> 00:00:05.335
+multiplying algebraic terms.
+
+4
+00:00:05.355 --> 00:00:10.117
+By the end of this video, you'll be able to write terms in index form,
+
+5
+00:00:10.137 --> 00:00:12.781
+and multiply terms using the index law.
+
+6
+00:00:14.633 --> 00:00:15.954
+First, index form.
+
+7
+00:00:15.974 --> 00:00:21.615
+When the same letter is multiplied by itself, we can write it with an index,
+
+8
+00:00:21.635 --> 00:00:23.105
+also called a power.
+
+9
+00:00:23.125 --> 00:00:24.520
+a³ means a × a × a.
+
+10
+00:00:25.767 --> 00:00:28.773
+The small raised number, 3, is the index.
+
+11
+00:00:28.793 --> 00:00:32.464
+It tells us how many times the base is multiplied.
+
+12
+00:00:32.484 --> 00:00:34.383
+The base is the letter, a.
+
+13
+00:00:35.633 --> 00:00:38.988
+And a letter with no index has an index of one.
+
+14
+00:00:39.008 --> 00:00:40.639
+So a is the same as a¹.
+
+15
+00:00:42.267 --> 00:00:45.535
+To write in index form, count each letter.
+
+16
+00:00:45.555 --> 00:00:50.781
+In 3 × a × a × a × b, the letter a appears three times, and b once.
+
+17
+00:00:50.801 --> 00:00:52.112
+So we write 3a³b.
+
+18
+00:00:52.132 --> 00:00:56.966
+The number goes first, then the letters in alphabetical order.
+
+19
+00:00:58.200 --> 00:00:59.661
+Try another.
+
+20
+00:00:59.681 --> 00:01:05.587
+2 × x × x × y × y × y has two x's and three y's.
+
+21
+00:01:05.607 --> 00:01:07.438
+So it is 2x²y³.
+
+22
+00:01:09.067 --> 00:01:11.962
+Before you multiply anything, check the sign.
+
+23
+00:01:11.982 --> 00:01:14.553
+A positive times a positive is positive.
+
+24
+00:01:15.800 --> 00:01:18.494
+A negative times a negative is also positive.
+
+25
+00:01:18.514 --> 00:01:20.303
+Two negatives make a positive.
+
+26
+00:01:21.533 --> 00:01:23.694
+A positive times a negative is negative.
+
+27
+00:01:24.933 --> 00:01:28.053
+And a negative times a positive is negative too.
+
+28
+00:01:28.073 --> 00:01:28.273
+So:
+
+29
+00:01:28.269 --> 00:01:32.436
+same signs give a positive, and different signs give a negative.
+
+30
+00:01:34.067 --> 00:01:36.579
+Now let's multiply terms.
+
+31
+00:01:36.599 --> 00:01:38.910
+We'll use this example:
+
+32
+00:01:38.930 --> 00:01:40.328
+3a³b × −2a²b².
+
+33
+00:01:40.348 --> 00:01:42.557
+There are three steps.
+
+34
+00:01:43.800 --> 00:01:44.357
+Step one:
+
+35
+00:01:44.377 --> 00:01:46.473
+write each term in expanded form.
+
+36
+00:01:46.493 --> 00:01:49.742
+Every letter is written out in full, one at a time.
+
+37
+00:01:50.967 --> 00:01:51.605
+Step two:
+
+38
+00:01:51.625 --> 00:01:56.285
+group the coefficients together, and group the matching letters.
+
+39
+00:01:56.305 --> 00:01:59.649
+That's 3 and −2, then five a's, and three b's.
+
+40
+00:02:00.900 --> 00:02:02.220
+Step three:
+
+41
+00:02:02.240 --> 00:02:05.630
+write it back in index form.
+
+42
+00:02:05.650 --> 00:02:11.721
+3 × −2 is −6, five a's is a⁵, and three b's is b³.
+
+43
+00:02:11.741 --> 00:02:14.644
+So the answer is −6a⁵b³.
+
+44
+00:02:16.267 --> 00:02:19.946
+Writing everything out takes a long time, so here is a shortcut.
+
+45
+00:02:19.966 --> 00:02:23.818
+Multiply the coefficients, and add the indices of matching letters.
+
+46
+00:02:25.067 --> 00:02:34.126
+For example, a³ × a⁴ is a × a × a times a × a × a × a, which is seven a's.
+
+47
+00:02:34.146 --> 00:02:35.352
+That's a⁷.
+
+48
+00:02:35.372 --> 00:02:38.788
+We simply added the indices:
+
+49
+00:02:38.808 --> 00:02:40.015
+3 + 4 = 7.
+
+50
+00:02:41.267 --> 00:02:46.232
+Letters that appear in only one term are just copied across.
+
+51
+00:02:46.252 --> 00:02:47.894
+So 3ab × 2c is 6abc.
+
+52
+00:02:49.533 --> 00:02:51.730
+Be careful about what an index applies to.
+
+53
+00:02:51.750 --> 00:02:55.423
+An index only applies to the number or letter immediately to its left.
+
+54
+00:02:56.667 --> 00:03:00.725
+In 4gh³, the 3 only applies to h.
+
+55
+00:03:00.745 --> 00:03:03.938
+So it's 4 × g × h × h × h.
+
+56
+00:03:05.167 --> 00:03:12.751
+But in (4gh)³, the brackets make the 3 apply to everything inside.
+
+57
+00:03:12.771 --> 00:03:14.825
+So 4 is cubed too:
+
+58
+00:03:14.845 --> 00:03:17.936
+4³ is 64, so we get 64g³h³.
+
+59
+00:03:19.167 --> 00:03:24.941
+And for a power of a power, multiply the indices.
+
+60
+00:03:24.961 --> 00:03:26.360
+(x²)³ is x⁶.
+
+61
+00:03:28.000 --> 00:03:29.145
+Three helpful hints.
+
+62
+00:03:29.165 --> 00:03:33.224
+First, use brackets when an index should apply to more than one thing.
+
+63
+00:03:34.467 --> 00:03:40.679
+Second, always write the coefficient first, then the letters in alphabetical order.
+
+64
+00:03:40.699 --> 00:03:42.557
+So b × 3 × a becomes 3ab.
+
+65
+00:03:43.800 --> 00:03:46.414
+And third, always check the sign first.
+
+66
+00:03:46.434 --> 00:03:48.441
+Two negatives make a positive.
+
+67
+00:03:50.067 --> 00:03:55.368
+You should now be able to write repeated multiplication in index form,
+
+68
+00:03:55.388 --> 00:03:57.725
+work out the sign of a product,
+
+69
+00:03:57.745 --> 00:04:02.438
+multiply terms by multiplying coefficients and adding indices,
+
+70
+00:04:02.458 --> 00:04:06.087
+and tell the difference between 4gh³ and (4gh)³.
+
+71
+00:04:06.107 --> 00:04:12.017
+Next, watch the worked examples video, then try the questions in your booklet.
+

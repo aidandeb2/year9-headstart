@@ -1,0 +1,270 @@
+WEBVTT
+
+1
+00:00:00.300 --> 00:00:04.194
+In this video we'll work through five worked examples from Lesson 6.
+
+2
+00:00:04.214 --> 00:00:07.936
+For each one, pause the video and try the problem yourself first.
+
+3
+00:00:07.956 --> 00:00:11.447
+Then follow the think and write steps to check your thinking.
+
+4
+00:00:13.300 --> 00:00:14.506
+Example one:
+
+5
+00:00:14.526 --> 00:00:16.755
+identifying the H C F.
+
+6
+00:00:16.775 --> 00:00:21.967
+Find the H C F of 2a and 5a, and of 12xy and −18x³.
+
+7
+00:00:23.200 --> 00:00:28.889
+For part a, write each term as a product of prime and algebraic factors.
+
+8
+00:00:28.909 --> 00:00:31.188
+2a is 2 × a, and 5a is 5 × a.
+
+9
+00:00:32.433 --> 00:00:34.534
+The only common factor is a.
+
+10
+00:00:34.554 --> 00:00:35.897
+So the H C F is a.
+
+11
+00:00:37.133 --> 00:00:41.070
+For part b, write each as a product.
+
+12
+00:00:41.090 --> 00:00:46.016
+A negative can be written as times minus one.
+
+13
+00:00:46.036 --> 00:00:48.873
+12xy is 2 × 2 × 3 × x × y.
+
+14
+00:00:48.893 --> 00:00:53.269
+And −18x³ is −1 × 2 × 3 × 3 × x × x × x.
+
+15
+00:00:54.500 --> 00:00:57.248
+Multiply the common factors:
+
+16
+00:00:57.268 --> 00:00:58.434
+2, 3, and x.
+
+17
+00:00:58.454 --> 00:01:00.016
+The H C F is 6x.
+
+18
+00:01:01.667 --> 00:01:03.182
+Example two:
+
+19
+00:01:03.202 --> 00:01:04.718
+factorising.
+
+20
+00:01:04.738 --> 00:01:09.196
+Factorise 8x + 28 and 9xyz − 12wxy.
+
+21
+00:01:10.433 --> 00:01:15.536
+For part a, the H C F of 8 and 28 is 4.
+
+22
+00:01:15.556 --> 00:01:18.425
+Divide each term by 4.
+
+23
+00:01:18.445 --> 00:01:22.366
+8x ÷ 4 is 2x, and 28 ÷ 4 is 7.
+
+24
+00:01:22.386 --> 00:01:24.992
+So we get 4(2x + 7).
+
+25
+00:01:26.233 --> 00:01:30.798
+For part b, the H C F of 9xyz and 12wxy is 3xy.
+
+26
+00:01:30.818 --> 00:01:33.627
+Write that outside a bracket.
+
+27
+00:01:34.867 --> 00:01:38.384
+Divide each term by 3xy.
+
+28
+00:01:38.404 --> 00:01:44.281
+9xyz ÷ 3xy is 3z, and 12wxy ÷ 3xy is 4w.
+
+29
+00:01:44.301 --> 00:01:47.376
+The minus sign stays.
+
+30
+00:01:47.396 --> 00:01:51.799
+So the answer is 3xy(3z − 4w).
+
+31
+00:01:53.433 --> 00:01:55.086
+Example three:
+
+32
+00:01:55.106 --> 00:01:57.356
+terms with indices.
+
+33
+00:01:57.376 --> 00:02:01.776
+Factorise a² − 6a and 10m³n + 15m²n².
+
+34
+00:02:03.000 --> 00:02:08.045
+For part a, a² is a × a, so the H C F is a.
+
+35
+00:02:08.065 --> 00:02:10.636
+Divide each term by a.
+
+36
+00:02:10.656 --> 00:02:12.520
+We get a(a − 6).
+
+37
+00:02:13.767 --> 00:02:17.337
+For part b, the H C F of 10 and 15 is 5.
+
+38
+00:02:17.357 --> 00:02:22.723
+The lowest power of m is m², and the lowest power of n is n.
+
+39
+00:02:22.743 --> 00:02:24.608
+So the H C F is 5m²n.
+
+40
+00:02:25.833 --> 00:02:29.587
+Divide each term by 5m²n.
+
+41
+00:02:29.607 --> 00:02:36.229
+10m³n ÷ 5m²n is 2m, and 15m²n² ÷ 5m²n is 3n.
+
+42
+00:02:37.467 --> 00:02:41.894
+The answer is 5m²n(2m + 3n).
+
+43
+00:02:43.533 --> 00:02:44.866
+Example four:
+
+44
+00:02:44.886 --> 00:02:46.636
+a negative H C F.
+
+45
+00:02:46.656 --> 00:02:48.613
+Factorise −4a − 12.
+
+46
+00:02:49.833 --> 00:02:53.255
+Take out −4, the H C F with a negative sign.
+
+47
+00:02:54.500 --> 00:02:57.922
+Divide each term by −4.
+
+48
+00:02:57.942 --> 00:03:03.609
+−4a ÷ −4 is a, and −12 ÷ −4 is plus 3.
+
+49
+00:03:03.629 --> 00:03:06.602
+So we get −4(a + 3).
+
+50
+00:03:07.833 --> 00:03:09.952
+Check by expanding.
+
+51
+00:03:09.972 --> 00:03:13.666
+−4 × a is −4a, and −4 × 3 is −12.
+
+52
+00:03:13.686 --> 00:03:16.368
+It matches the original.
+
+53
+00:03:18.000 --> 00:03:19.019
+Example five:
+
+54
+00:03:19.039 --> 00:03:20.457
+a composite shape.
+
+55
+00:03:20.477 --> 00:03:23.253
+A rectangle is 5x wide and 3y high.
+
+56
+00:03:23.273 --> 00:03:27.328
+A triangle sits on top, with base 5x and height 2x.
+
+57
+00:03:27.348 --> 00:03:29.965
+Find the area, then factorise it.
+
+58
+00:03:31.200 --> 00:03:35.023
+The rectangle's area is length times width.
+
+59
+00:03:35.043 --> 00:03:36.453
+5x × 3y is 15xy.
+
+60
+00:03:37.700 --> 00:03:42.938
+The triangle's area is half times base times height.
+
+61
+00:03:42.958 --> 00:03:44.860
+½ × 5x × 2x is 5x².
+
+62
+00:03:46.100 --> 00:03:50.141
+The total area is 15xy + 5x².
+
+63
+00:03:50.161 --> 00:03:52.381
+The H C F is 5x.
+
+64
+00:03:52.401 --> 00:03:57.002
+So we factorise it as 5x(3y + x).
+
+65
+00:03:58.633 --> 00:04:01.007
+That's the end of the five worked examples.
+
+66
+00:04:01.027 --> 00:04:03.512
+Now try the questions in your lesson booklet,
+
+67
+00:04:03.532 --> 00:04:06.295
+and remember to check each answer by expanding it.
+

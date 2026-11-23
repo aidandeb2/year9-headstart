@@ -1,0 +1,278 @@
+WEBVTT
+
+1
+00:00:00.300 --> 00:00:02.274
+Welcome to Headstart algebra.
+
+2
+00:00:02.294 --> 00:00:03.444
+This is Lesson 6:
+
+3
+00:00:03.464 --> 00:00:04.269
+factorising.
+
+4
+00:00:04.289 --> 00:00:09.633
+By the end of this video, you'll be able to find the H C F of algebraic terms,
+
+5
+00:00:09.653 --> 00:00:13.072
+and factorise expressions by taking out the H C F.
+
+6
+00:00:14.900 --> 00:00:15.892
+First, factors.
+
+7
+00:00:15.912 --> 00:00:18.388
+A factor divides exactly into a term.
+
+8
+00:00:18.408 --> 00:00:22.233
+A common factor divides exactly into every term in a set.
+
+9
+00:00:23.467 --> 00:00:28.510
+The highest common factor, or H C F, is the product of all the common factors.
+
+10
+00:00:28.530 --> 00:00:31.691
+It can have a number part, and a pronumeral part.
+
+11
+00:00:33.333 --> 00:00:35.211
+Here are some examples.
+
+12
+00:00:35.231 --> 00:00:37.439
+The H C F of x and 7x is x.
+
+13
+00:00:38.667 --> 00:00:41.945
+The H C F of 6m, 12mn and 8mp is 2m.
+
+14
+00:00:41.965 --> 00:00:48.084
+The number 2 divides into 6, 12 and 8, and m is in all three terms.
+
+15
+00:00:49.333 --> 00:00:53.662
+And the H C F of 15a³bc and 9a²c is 3a²c.
+
+16
+00:00:53.682 --> 00:00:56.526
+Let's see how to find that.
+
+17
+00:00:58.167 --> 00:01:02.039
+To find the H C F, follow three steps.
+
+18
+00:01:02.059 --> 00:01:04.703
+We'll use 15a³bc and 9a²c.
+
+19
+00:01:05.933 --> 00:01:06.944
+Step one:
+
+20
+00:01:06.964 --> 00:01:13.815
+write each term as a product of prime and algebraic factors.
+
+21
+00:01:13.835 --> 00:01:17.937
+15a³bc is 3 × 5 × a × a × a × b × c.
+
+22
+00:01:17.957 --> 00:01:21.372
+And 9a²c is 3 × 3 × a × a × c.
+
+23
+00:01:22.600 --> 00:01:23.305
+Step two:
+
+24
+00:01:23.325 --> 00:01:25.400
+circle the common factors.
+
+25
+00:01:25.420 --> 00:01:28.461
+Both terms have a 3, two a's, and a c.
+
+26
+00:01:29.700 --> 00:01:30.932
+Step three:
+
+27
+00:01:30.952 --> 00:01:32.526
+multiply them.
+
+28
+00:01:32.546 --> 00:01:35.030
+3 × a × a × c is 3a²c.
+
+29
+00:01:35.050 --> 00:01:36.966
+That's the H C F.
+
+30
+00:01:38.600 --> 00:01:42.407
+Factorising is the opposite of expanding.
+
+31
+00:01:42.427 --> 00:01:46.047
+When we expand, we remove the brackets:
+
+32
+00:01:46.067 --> 00:01:48.380
+7(a + 2) becomes 7a + 14.
+
+33
+00:01:49.600 --> 00:01:54.307
+When we factorise, we put the brackets back:
+
+34
+00:01:54.327 --> 00:01:56.993
+7a + 14 becomes 7(a + 2).
+
+35
+00:01:58.633 --> 00:02:00.932
+Now let's factorise 8x + 28.
+
+36
+00:02:00.952 --> 00:02:02.672
+There are four steps.
+
+37
+00:02:03.900 --> 00:02:04.643
+Step one:
+
+38
+00:02:04.663 --> 00:02:07.693
+identify the H C F of all the terms.
+
+39
+00:02:07.713 --> 00:02:09.981
+The H C F of 8 and 28 is 4.
+
+40
+00:02:11.233 --> 00:02:11.850
+Step two:
+
+41
+00:02:11.870 --> 00:02:14.540
+write the H C F in front of a bracket.
+
+42
+00:02:15.767 --> 00:02:16.911
+Step three:
+
+43
+00:02:16.931 --> 00:02:22.202
+inside the bracket, divide each term by the H C F.
+
+44
+00:02:22.222 --> 00:02:25.377
+8x ÷ 4 is 2x, and 28 ÷ 4 is 7.
+
+45
+00:02:26.600 --> 00:02:27.532
+Step four:
+
+46
+00:02:27.552 --> 00:02:29.532
+simplify the bracket.
+
+47
+00:02:29.552 --> 00:02:31.818
+The answer is 4(2x + 7).
+
+48
+00:02:31.838 --> 00:02:35.437
+And you can always check by expanding.
+
+49
+00:02:35.457 --> 00:02:38.295
+4 × 2x is 8x, and 4 × 7 is 28.
+
+50
+00:02:38.315 --> 00:02:41.342
+We get back to where we started.
+
+51
+00:02:42.967 --> 00:02:48.364
+Sometimes it's best to take out a negative H C F,
+
+52
+00:02:48.384 --> 00:02:53.118
+especially when the first term is negative.
+
+53
+00:02:53.138 --> 00:02:56.324
+For −4a − 12, we take out −4.
+
+54
+00:02:56.344 --> 00:03:00.525
+−4a ÷ −4 is a, and −12 ÷ −4 is plus 3.
+
+55
+00:03:00.545 --> 00:03:02.736
+So we get −4(a + 3).
+
+56
+00:03:03.967 --> 00:03:06.386
+Check by expanding:
+
+57
+00:03:06.406 --> 00:03:10.624
+−4 × a is −4a, and −4 × 3 is −12.
+
+58
+00:03:10.644 --> 00:03:12.036
+It matches.
+
+59
+00:03:13.667 --> 00:03:14.837
+Three helpful hints.
+
+60
+00:03:14.857 --> 00:03:19.599
+First, look at the coefficients and all the letters when you look for the H C F.
+
+61
+00:03:20.833 --> 00:03:25.096
+Second, take out the highest common factor.
+
+62
+00:03:25.116 --> 00:03:30.873
+If you only take out part of it, you must factorise again.
+
+63
+00:03:30.893 --> 00:03:36.052
+4a + 8 = 2(2a + 4) is not finished, but 4(a + 2) is.
+
+64
+00:03:37.300 --> 00:03:37.849
+And third,
+
+65
+00:03:37.869 --> 00:03:42.800
+the number of terms inside the bracket must match the number of terms you started with.
+
+66
+00:03:44.433 --> 00:03:48.860
+You should now be able to write a term as a product of its factors,
+
+67
+00:03:48.880 --> 00:03:52.775
+find the H C F of terms, factorise by taking out the H C F,
+
+68
+00:03:52.795 --> 00:03:57.620
+factorise with indices and with a negative H C F, and check by expanding.
+
+69
+00:03:57.640 --> 00:04:02.796
+Next, watch the worked examples video, then try the questions in your booklet.
+

@@ -1,0 +1,210 @@
+WEBVTT
+
+1
+00:00:00.300 --> 00:00:02.160
+Welcome to Headstart algebra.
+
+2
+00:00:02.180 --> 00:00:03.262
+This is Lesson 5:
+
+3
+00:00:03.282 --> 00:00:03.910
+expanding.
+
+4
+00:00:03.930 --> 00:00:05.530
+By the end of this video,
+
+5
+00:00:05.550 --> 00:00:09.484
+you'll be able to expand brackets using the distributive law.
+
+6
+00:00:11.333 --> 00:00:14.310
+Expanding means removing the brackets by multiplying.
+
+7
+00:00:14.330 --> 00:00:17.871
+The term outside the brackets is shared with every term inside.
+
+8
+00:00:17.891 --> 00:00:19.907
+This is called the distributive law.
+
+9
+00:00:21.133 --> 00:00:25.281
+Here's an example with numbers.
+
+10
+00:00:25.301 --> 00:00:32.675
+7(30 + 2) is 7 × 30 + 7 × 2, which is 210 + 14, or 224.
+
+11
+00:00:32.695 --> 00:00:40.204
+In algebra, a(b + c) is a × b + a × c, which is ab + ac.
+
+12
+00:00:41.833 --> 00:00:44.408
+The area model shows why this works.
+
+13
+00:00:44.428 --> 00:00:48.083
+Imagine a rectangle that is 7 tall, and a + 2 wide.
+
+14
+00:00:49.333 --> 00:00:52.459
+We can split it into two smaller rectangles:
+
+15
+00:00:52.479 --> 00:00:55.534
+one that is 7 by a, and one that is 7 by 2.
+
+16
+00:00:56.767 --> 00:01:02.136
+The areas are 7 × a, which is 7a, and 7 × 2, which is 14.
+
+17
+00:01:03.367 --> 00:01:06.898
+The whole rectangle is 7(a + 2).
+
+18
+00:01:06.918 --> 00:01:10.117
+The two parts add to 7a + 14.
+
+19
+00:01:11.367 --> 00:01:15.949
+So 7(a + 2) equals 7a + 14.
+
+20
+00:01:17.600 --> 00:01:19.459
+Here's how to expand.
+
+21
+00:01:19.479 --> 00:01:21.427
+Let's try −7p(3q − 4).
+
+22
+00:01:21.447 --> 00:01:27.511
+The term outside the brackets is negative, which makes signs tricky.
+
+23
+00:01:28.733 --> 00:01:29.430
+Step one:
+
+24
+00:01:29.450 --> 00:01:34.126
+multiply each term inside the brackets by the term outside.
+
+25
+00:01:34.146 --> 00:01:36.833
+When the outside term is negative,
+
+26
+00:01:36.853 --> 00:01:40.813
+put each product in brackets to protect the signs.
+
+27
+00:01:40.833 --> 00:01:44.474
+So we get −7p × 3q, plus the bracket −7p × −4.
+
+28
+00:01:45.700 --> 00:01:46.821
+Step two:
+
+29
+00:01:46.841 --> 00:01:47.961
+simplify.
+
+30
+00:01:47.981 --> 00:01:50.243
+−7p × 3q is −21pq.
+
+31
+00:01:50.263 --> 00:01:58.354
+And −7p × −4 is plus 28p, because two negatives make a positive.
+
+32
+00:01:58.374 --> 00:02:01.650
+The answer is −21pq + 28p.
+
+33
+00:02:03.300 --> 00:02:10.775
+With two brackets, expand each one, then collect like terms.
+
+34
+00:02:10.795 --> 00:02:17.021
+For 5(a + 4) + 2(a + 7), we get 5a + 20 + 2a + 14.
+
+35
+00:02:18.267 --> 00:02:20.867
+Collect the like terms:
+
+36
+00:02:20.887 --> 00:02:24.626
+5a + 2a is 7a, and 20 + 14 is 34.
+
+37
+00:02:24.646 --> 00:02:27.132
+The answer is 7a + 34.
+
+38
+00:02:28.367 --> 00:02:34.116
+And watch out for a minus sign in front of a bracket.
+
+39
+00:02:34.136 --> 00:02:37.163
+−(a + 2) means −1 × (a + 2).
+
+40
+00:02:37.183 --> 00:02:40.102
+So every sign inside flips.
+
+41
+00:02:40.122 --> 00:02:42.388
+The answer is −a − 2.
+
+42
+00:02:44.033 --> 00:02:45.317
+Three helpful hints.
+
+43
+00:02:45.337 --> 00:02:48.184
+First, when you multiply by a negative term,
+
+44
+00:02:48.204 --> 00:02:50.790
+use brackets to keep track of the signs.
+
+45
+00:02:52.033 --> 00:02:56.292
+Second, show all your working, to avoid arithmetic and sign errors.
+
+46
+00:02:57.533 --> 00:03:01.302
+And third, after expanding, always simplify.
+
+47
+00:03:01.322 --> 00:03:03.800
+Simplify, simplify, simplify!
+
+48
+00:03:05.433 --> 00:03:10.031
+You should now be able to use the distributive law with numbers and letters,
+
+49
+00:03:10.051 --> 00:03:12.522
+expand when the outside term is negative,
+
+50
+00:03:12.542 --> 00:03:15.135
+expand two brackets and collect like terms,
+
+51
+00:03:15.155 --> 00:03:17.687
+and show an expansion using an area model.
+
+52
+00:03:17.707 --> 00:03:22.426
+Next, watch the worked examples video, then try the questions in your booklet.
+

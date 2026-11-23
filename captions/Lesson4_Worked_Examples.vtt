@@ -1,0 +1,250 @@
+WEBVTT
+
+1
+00:00:00.300 --> 00:00:04.092
+In this video we'll work through six worked examples from Lesson 4.
+
+2
+00:00:04.112 --> 00:00:07.790
+For each one, pause the video and try the problem yourself first.
+
+3
+00:00:07.810 --> 00:00:11.261
+Then follow the think and write steps to check your thinking.
+
+4
+00:00:13.100 --> 00:00:14.235
+Example one:
+
+5
+00:00:14.255 --> 00:00:16.544
+cancelling a pronumeral.
+
+6
+00:00:16.564 --> 00:00:18.180
+Simplify (5a²)/a.
+
+7
+00:00:19.400 --> 00:00:22.245
+Write the top in expanded form:
+
+8
+00:00:22.265 --> 00:00:23.908
+5 × a × a, over a.
+
+9
+00:00:25.133 --> 00:00:29.383
+Cancel one a from the top and the bottom, because a/a is 1.
+
+10
+00:00:29.403 --> 00:00:30.686
+That leaves 5 × a.
+
+11
+00:00:31.933 --> 00:00:33.756
+Write it in index form.
+
+12
+00:00:33.776 --> 00:00:35.118
+The answer is 5a.
+
+13
+00:00:36.767 --> 00:00:38.113
+Example two:
+
+14
+00:00:38.133 --> 00:00:40.391
+using the index law.
+
+15
+00:00:40.411 --> 00:00:43.124
+Simplify (8a³b)/(2a²b²).
+
+16
+00:00:44.367 --> 00:00:46.863
+First divide the coefficients.
+
+17
+00:00:46.883 --> 00:00:47.786
+8 ÷ 2 is 4.
+
+18
+00:00:49.033 --> 00:00:52.706
+Now subtract the indices, top minus bottom.
+
+19
+00:00:52.726 --> 00:00:57.430
+For a, that's 3 − 2, which is 1, so one a stays on top.
+
+20
+00:00:57.450 --> 00:01:02.840
+For b, it's 1 − 2, which is −1, so one b is left on the bottom.
+
+21
+00:01:04.067 --> 00:01:05.247
+Put it together.
+
+22
+00:01:05.267 --> 00:01:06.824
+The answer is (4a)/b.
+
+23
+00:01:08.467 --> 00:01:10.034
+Example three:
+
+24
+00:01:10.054 --> 00:01:14.114
+using the H C F of the coefficients.
+
+25
+00:01:14.134 --> 00:01:16.948
+Simplify (12x⁵y²)/(8x²y).
+
+26
+00:01:18.200 --> 00:01:21.327
+The H C F of 12 and 8 is 4.
+
+27
+00:01:21.347 --> 00:01:23.308
+Divide both by 4.
+
+28
+00:01:23.328 --> 00:01:26.572
+12 ÷ 4 is 3, and 8 ÷ 4 is 2.
+
+29
+00:01:27.800 --> 00:01:31.820
+For x, 5 − 2 is 3, and it stays on top.
+
+30
+00:01:31.840 --> 00:01:35.860
+For y, 2 − 1 is 1, and it stays on top.
+
+31
+00:01:37.100 --> 00:01:39.965
+So the answer is (3x³y)/2.
+
+32
+00:01:41.600 --> 00:01:43.209
+Example four:
+
+33
+00:01:43.229 --> 00:01:46.842
+a divide sign, and negatives.
+
+34
+00:01:46.862 --> 00:01:49.850
+Simplify 30a³b² ÷ −6ab².
+
+35
+00:01:51.100 --> 00:01:52.979
+Divide the coefficients.
+
+36
+00:01:52.999 --> 00:01:57.331
+30 ÷ −6 is −5, because different signs give a negative.
+
+37
+00:01:58.567 --> 00:02:00.419
+For a, 3 − 1 is 2.
+
+38
+00:02:00.439 --> 00:02:05.414
+For b, 2 − 2 is 0, so the b's cancel completely.
+
+39
+00:02:06.667 --> 00:02:08.853
+The answer is −5a².
+
+40
+00:02:10.500 --> 00:02:12.126
+Example five:
+
+41
+00:02:12.146 --> 00:02:14.910
+multiply on top first.
+
+42
+00:02:14.930 --> 00:02:17.948
+Simplify (x⁴ × x³)/(x²).
+
+43
+00:02:19.200 --> 00:02:23.752
+On the top we're multiplying, so add the indices.
+
+44
+00:02:23.772 --> 00:02:24.779
+4 + 3 is 7.
+
+45
+00:02:24.799 --> 00:02:26.738
+That gives (x⁷)/(x²).
+
+46
+00:02:27.967 --> 00:02:31.765
+Now we divide, so subtract the indices.
+
+47
+00:02:31.785 --> 00:02:32.842
+7 − 2 is 5.
+
+48
+00:02:32.862 --> 00:02:34.506
+The answer is x⁵.
+
+49
+00:02:36.133 --> 00:02:37.339
+Example six:
+
+50
+00:02:37.359 --> 00:02:39.993
+simplify, then substitute.
+
+51
+00:02:40.013 --> 00:02:45.915
+Simplify (12a³b)/(4a), then evaluate when a = 2 and b = 5.
+
+52
+00:02:47.167 --> 00:02:48.795
+12 ÷ 4 is 3.
+
+53
+00:02:48.815 --> 00:02:51.268
+For a, 3 − 1 is 2.
+
+54
+00:02:51.288 --> 00:02:52.916
+The b stays.
+
+55
+00:02:52.936 --> 00:02:54.976
+So we get 3a²b.
+
+56
+00:02:56.200 --> 00:02:57.581
+Now substitute.
+
+57
+00:02:57.601 --> 00:03:01.037
+3 × 2² × 5 is 3 × 4 × 5, which is 60.
+
+58
+00:03:01.057 --> 00:03:04.866
+Simplifying first made that much quicker.
+
+59
+00:03:06.500 --> 00:03:09.031
+That's the end of the six worked examples.
+
+60
+00:03:09.051 --> 00:03:11.764
+Now try the questions in your lesson booklet,
+
+61
+00:03:11.784 --> 00:03:14.619
+and remember to show your working in the boxes.
+
+62
+00:03:14.639 --> 00:03:17.413
+If everything cancels, the answer is 1, not 0.
+
